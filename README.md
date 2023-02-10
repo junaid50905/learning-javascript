@@ -1,10 +1,10 @@
 # learning-javascript
-<p>
+
   - <a href="#kamal">object</a>
     - nested item one  
     - nested item two
- </p>
  
+ <br>
 <a href="#object">object</a> <br>
 <a href="#arman">arman</a><br>
 <a href="#saber">saber</a><br>
