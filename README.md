@@ -63,5 +63,5 @@ delete freezePerson.age
 console.log('freeze object',freezePerson);
 ```
 
-$${\color{red}TypeError: Cannot assign to read only property 'name' of object '#<Object>'}$$
+$${\color{red}TypeError:_Cannot_assign_to_read_only property_'name'_of_object_'#<Object>'}$$
 ---------------------------------------------------------------------------------------------------
