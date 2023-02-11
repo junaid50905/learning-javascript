@@ -62,5 +62,5 @@ freezePerson['maritalStatus'] = 'unmarried'
 delete freezePerson.age
 console.log('freeze object',freezePerson);
 ```
-
+![logo](https://i.ibb.co/VVpKBC8/Screenshot-20230211-070607.png)
 ---------------------------------------------------------------------------------------------------
