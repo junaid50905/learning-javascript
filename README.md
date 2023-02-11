@@ -64,5 +64,5 @@ console.log('freeze object',freezePerson);
 ```
 <font style="color: red">TypeError: Cannot assign to read only property 'name' of object '#<Object>'</font>
 
-```
+
 ---------------------------------------------------------------------------------------------------
