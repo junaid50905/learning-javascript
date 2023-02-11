@@ -62,7 +62,7 @@ freezePerson['maritalStatus'] = 'unmarried'
 delete freezePerson.age
 console.log('freeze object',freezePerson);
 ```
-<div style="background: red">TypeError: Cannot assign to read only property 'name' of object '#<Object>'</div>
+<font style="color: red">TypeError: Cannot assign to read only property 'name' of object '#<Object>'</font>
 
 <p>
 </p>
